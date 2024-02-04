@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamshi-swag
+- 👋 Hi, I’m @vamshi-Neelakantam
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...google
